@@ -1709,6 +1709,8 @@ input::-moz-focus-inner {
  * ------------------------------------------------------------------- */
 .header-logo {
   z-index: 601;
+  height: 50;
+  width: 50;
   display: inline-block;
   margin: 6px 0 0 0;
   padding: 0;
@@ -1730,8 +1732,8 @@ input::-moz-focus-inner {
 }
 
 .header-logo img {
-  width: 130px;
-  height: 36px;
+  width: 75px;
+  height: 75px;
 }
 
 
